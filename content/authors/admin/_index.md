@@ -93,19 +93,17 @@ work:
     date_end: 2019-07-10
     summary: |2-
       Responsibilities include:
-      - Machine Translation: Our lab has collaborated with Jollychic to develop a machine translation model that integrates both production and research, involving Arabic, English, and Chinese. My responsibilities includes designing the mutul machine translation algorithm and implementation. project_url: http://www.ziri.hku.hk/about/projects_details/24.html
-      - Alzheimer's Disease diagnosis with Deep Learning. project_url: http://www.ziri.hku.hk/about/projects_details/25.html
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Machine Translation: Our lab has collaborated with Jollychic to develop a machine translation model that integrates both production and research, involving Arabic, English, and Chinese. My responsibilities includes designing the mutul machine translation algorithm and implementation. url: http://www.ziri.hku.hk/about/projects_details/24.html
+      - Alzheimer's Disease diagnosis with Deep Learning. url: http://www.ziri.hku.hk/about/projects_details/25.html
+  - position: Graduate Research Assistant
+    company_name: Mining Lab, Rochester Institute of Technology
+    company_url: https://www.rit.edu/mining/
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019-08-26
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Research projects include learning to Learn with noisy labels for few-shot learning, source-free domain adaptation for object detection, and domain-adaptive prompt learning for cross-domain open-vocabulary object detection.
+      - Professional service of journal and conference reviewer.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -114,9 +112,9 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
-      - name: Data Science
+      - name: Deep Learning
         description: ''
         percent: 100
         icon: chart-bar
@@ -136,51 +134,16 @@ skills:
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
 
 languages:
   - name: English
-    percent: 100
+    percent: 90
   - name: Chinese
-    percent: 75
-  - name: Portuguese
+    percent: 100
+  - name: French
     percent: 25
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xiaofan Que is a PhD student and graduate research assistant at Machine Learning and Data Intensive Computing Lab, Rochester Institute of Technology. She've received her bachelor and master degrees of computer science from University of Electronic Science and Technology of China. Her academic work has been published or is forthcoming in AAAI, ECCV, among other outlets. Her research interests learning to learn with noisy labels, few-shot learning, meta-learning, object detection, vision language models and prompt engineering.
