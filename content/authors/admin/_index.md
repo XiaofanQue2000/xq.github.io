@@ -3,7 +3,7 @@
 title: 阙晓凡
 
 # Name pronunciation (optional)
-name_pronunciation: Xiao Fan Que
+name_pronunciation: Que Xiao Fan 
 
 # Full name (for SEO)
 first_name: Xiaofan
@@ -55,43 +55,46 @@ education:
     date_start: 2019-08-26
     summary: |
       My research interests includes the following topics: learning to learn with noisy labels, meta-learning, few-shot learning, object detection, PAC-Bayesian analysis. Published papers at AAAI and ECCV as first author. 
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Computer Science
+    institution: University of Electronic Science and Technology of China
+    date_start: 2015-09-01
+    date_end: 2018-06-30
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.11/4.0
+
+      Thesis Title: Research Based on Multi-source Non-negative Matrix Factorization.
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Distributed Systems
+      - Embedded System Design
+      - Database Technology
+  - area: BSc Computer Science
+    institution: University of Electronic Science and Technology of China
+    date_start: 2011-09-01
+    date_end: 2015-06-30
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.51/4.0
+
+      Thesis Title: Multi-source Multi-task learning Based on Alzheimer’s Disease.
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Data Structure
+      - C++ Programming
+      - Object-Oriented Programming Java
+      - Assembly Language Programming
+      - Software Development Environment
+      - Fundamental of Compiler
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Senior Research Assistant
+    company_name: ZIRI, The University of Hong Kong
+    company_url: http://www.ziri.hku.hk/en/
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2018-09-10
+    date_end: 2019-07-10
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Machine Translation: Our lab has collaborated with Jollychic to develop a machine translation model that integrates both production and research, involving Arabic, English, and Chinese. My responsibilities includes designing the mutul machine translation algorithm and implementation. project_url: http://www.ziri.hku.hk/about/projects_details/24.html
+      - Alzheimer's Disease diagnosis with Deep Learning. project_url: http://www.ziri.hku.hk/about/projects_details/25.html
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
