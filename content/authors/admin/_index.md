@@ -47,6 +47,7 @@ interests:
   - Object Detection
   - Few-shot Learning
   - Learning with Noisy Labels
+  - Domain Adaptation
  
 
 education:
