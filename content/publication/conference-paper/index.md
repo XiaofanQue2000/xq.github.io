@@ -25,16 +25,16 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In European Conference on Computer Vision 2025
+publication_short: In *ECCV*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Noisy few-shot learning (NFSL) presents novel challenges primarily due to the interplay between noisy labels and limited training data. While data cleansing offers a viable solution to address noisy labels in the general learning settings, it exacerbates information loss in FSL due to limited training data, resulting in inadequate model training. To best recover the underlying task manifold corrupted by the noisy labels, we resort to learning from uniquely designed  unsupervised auxiliary tasks to compensate for information loss. Using unsupervised tasks can effectively avoid additional annotation costs and minimize the risk of introducing additional label noises. However, a randomly constructed unsupervised task may misguide the model to learn sample-specific features that are likely to compromise the primary few-shot learning task due to the noisy weak learning signals. We propose to conduct novel auxiliary task selection to ensure the intra-diversity among the unlabeled samples within a task. Domain invariant features are then learned from carefully constructed auxiliary tasks to best recover the original data manifold. We conduct a theoretical analysis to derive novel generalization bounds for learning with auxiliary tasks. Extensive experiments are conducted to demonstrate that our method outperforms existing noisy few-shot learning methods under various in-domain and cross-domain few-shot classification benchmarks. 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We propose a novel FSL framework with auxiliary tasks that utilize carefully selected unlabeled data under noisy settings.
 
 tags:
-  - Large Language Models
+  - Noisy Few-shot Learning
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,14 +44,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05600.pdf
+url_code: https://github.com/ritmininglab/DUNT/tree/main
 url_poster: ''
-url_project: ''
+url_project: https://eccv2024.ecva.net/virtual/2024/poster/1929
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_video: https://www.youtube.com/watch?v=74MyPegy_is&t=5s
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
