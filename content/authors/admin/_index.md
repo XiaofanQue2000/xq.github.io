@@ -52,8 +52,7 @@ interests:
 education:
   - area: PhD Computer Information and Science
     institution: Rochester Institute of Technology
-    date_start: 2019-08
-    date_end: present
+    date_start: 2019-08-26
     summary: |
       My research interests includes the following topics: learning to learn with noisy labels, meta-learning, few-shot learning, object detection, PAC-Bayesian analysis. Published papers at AAAI and ECCV as first author. 
     button:
