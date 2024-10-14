@@ -1,12 +1,11 @@
 ---
 title: GCCIS PhD Colloquium Series
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: GCCIS PhD Colloquium Series
 
-location: Hugo Blox Builder HQ
+location: SLA 2150
 address:
-  street: 1 Lomb Memorial Dr, SLA 2150
+  street: 1 Lomb Memorial Dr
   city: Rochester 
   region: NY
   postcode: '14623'
