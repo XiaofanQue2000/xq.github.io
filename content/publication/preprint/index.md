@@ -16,7 +16,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: "Proceedings of the AAAI Conference on Artificial Intelligence"
-publication_short: In "AAAI2024"
+publication_short: In "AAAI 2024"
 
 
 
