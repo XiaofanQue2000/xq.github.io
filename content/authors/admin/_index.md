@@ -1,9 +1,7 @@
 ---
 # Display name
-title: 阙晓凡
+title: Xiaofan Que
 
-# Name pronunciation (optional)
-name_pronunciation: Que Xiao Fan 
 
 # Full name (for SEO)
 first_name: Xiaofan
