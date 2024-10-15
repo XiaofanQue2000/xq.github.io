@@ -44,40 +44,7 @@ featured: true
 
 url_pdf: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05600.pdf
 url_code: https://github.com/ritmininglab/DUNT/tree/main
-url_poster: ''
-url_project: https://eccv2024.ecva.net/virtual/2024/poster/1929
-url_slides: ''
-url_video: https://www.youtube.com/watch?v=74MyPegy_is&t=5s
+url_poster: https://eccv2024.ecva.net/virtual/2024/poster/1929
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
