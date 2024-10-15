@@ -35,10 +35,7 @@ url_code: https://github.com/ritmininglab/DCML
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: https://docs.google.com/presentation/d/1ECe_s6wztXrE2tQtcUsx_ZmSowgj2tHg/edit?usp=sharing&ouid=100859666420655122192&rtpof=true&sd=true'
-  focal_point: ""
-  preview_only: false
+
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -56,11 +53,5 @@ projects:
 slides: example
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
 
