@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Self-paced multi-task clustering"
 authors:
 - admin
 
