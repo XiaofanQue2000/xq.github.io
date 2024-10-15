@@ -43,7 +43,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: https://docs.google.com/presentation/d/1ECe_s6wztXrE2tQtcUsx_ZmSowgj2tHg/edit?usp=sharing&ouid=100859666420655122192&rtpof=true&sd=true'
   focal_point: ""
   preview_only: false
 
