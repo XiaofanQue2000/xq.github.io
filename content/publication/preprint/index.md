@@ -36,7 +36,6 @@ links:
 - name: Custom Link
   url: https://ojs.aaai.org/index.php/AAAI/article/view/29392
 url_pdf: https://ojs.aaai.org/index.php/AAAI/article/view/29392
-url_code: https://github.com/ritmininglab/DCML
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
