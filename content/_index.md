@@ -36,7 +36,9 @@ sections:
       subtitle: ''
       text: |-
         My research focuses on learning to learn with noisy labels in few-shot learning. I have developed different methods to address this issue, including a new metric to identify noisy data, and utilization of additional unsupervised datasets, as well as comprehensive theoretical analysis. My works are published on venues including AAAI and ECCV.
+    
         I am also interested in cross-domain object detection. My in-progress projects include using vision-language models, test-time prompt tuning technologies to enhance zero-shot object detection performance.
+    
         I am actively looking for intership.
         Please reach out to collaborate 😃
     design:
