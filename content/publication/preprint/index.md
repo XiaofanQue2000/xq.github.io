@@ -32,11 +32,6 @@ tags:
 
 featured: true
 
-links:
-- name: Custom Link
-  url: https://ojs.aaai.org/index.php/AAAI/article/view/29392
-url_pdf: https://ojs.aaai.org/index.php/AAAI/article/view/29392
-url_code: https://github.com/ritmininglab/DCML
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
