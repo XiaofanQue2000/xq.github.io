@@ -24,7 +24,7 @@ abstract: Few-shot learning (FSL) is essential in many practical applications. H
 summary: We propose a curriculum meta-learning model that employs a novel dual-level class-example sampling strategy to create a robust curriculum for adaptive task distribution formulation and robust model training.
 
 tags:
-- Large Language Models
+- Curriculum Learning
 
 featured: true
 
