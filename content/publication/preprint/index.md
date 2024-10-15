@@ -2,8 +2,9 @@
 title: Dual-Level Curriculum Meta-Learning for Noisy Few-Shot Learning Tasks
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
+- Qi Yu
+date: "2024-02-27T00:00:00Z"
+doi: https://doi.org/10.1609/aaai.v38i13.29392
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
