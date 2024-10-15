@@ -15,8 +15,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "Neurocomputing"
+publication_short: "Neurocomputing2019"
 
 abstract: Multi-task clustering (MTC) has attracted a lot of research attentions in machine learning due to its ability in utilizing the relationship among different tasks. Despite the success of traditional MTC models, they are either easy to stuck into local optima, or sensitive to outliers and noisy data. To alleviate these problems, we propose a novel self-paced multi-task clustering (SPMTC) paradigm. In detail, SPMTC progressively selects data examples to train a series of MTC models with increasing complexity, thus highly decreases the risk of trapping into poor local optima. Furthermore, to reduce the negative influence of outliers and noisy data, we design a soft version of SPMTC to further improve the clustering performance. The corresponding SPMTC framework can be easily solved by an alternating optimization method. The proposed model is guaranteed to converge and experiments on real data sets have demonstrated its promising results compared with state-of-the-art multi-task clustering methods.
 
