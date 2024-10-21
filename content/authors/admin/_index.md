@@ -92,8 +92,8 @@ work:
     date_end: 2019-07-10
     summary: |2-
       Responsibilities include:
-      - Machine Translation: Our lab has collaborated with Jollychic to develop a machine translation model that integrates both production and research, involving Arabic, English, and Chinese. My responsibilities includes designing the mutul machine translation algorithm and implementation. url: http://www.ziri.hku.hk/about/projects_details/24.html
-      - Alzheimer's Disease diagnosis with Deep Learning. url: http://www.ziri.hku.hk/about/projects_details/25.html
+      - Machine Translation: Our lab has collaborated with Jollychic to develop a machine translation model that integrates both production and research, involving Arabic, English, and Chinese. My responsibilities includes designing the mutul machine translation algorithm and implementation. 
+      - Alzheimer’s Disease diagnosis with Deep Learning. We design machine learning algorithms to help diagnose Alzheimer’s Disease. My responsibilities includes designing novel multi-task algorithms for AD diagnosis. 
   - position: Graduate Research Assistant
     company_name: Mining Lab, Rochester Institute of Technology
     company_url: https://www.rit.edu/mining/
@@ -103,6 +103,8 @@ work:
       Responsibilities include:
       - Research projects include learning to Learn with noisy labels for few-shot learning, source-free domain adaptation for object detection, and domain-adaptive prompt learning for cross-domain open-vocabulary object detection.
       - Professional service of journal and conference reviewer.
+      - Conducting experiments, data collection, and analysis.
+      - Performing literature reviews to stay current with research developments. Writing research papers, reports, or grant proposals.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
