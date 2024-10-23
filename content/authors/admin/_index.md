@@ -41,7 +41,8 @@ profiles:
     url: https://orcid.org/0000-0003-1311-6486
 
 interests:
-  - Meta Learning
+  - Vision-Language Foundation Models
+  - Prompt Engineering
   - Object Detection
   - Few-shot Learning
   - Learning with Noisy Labels
