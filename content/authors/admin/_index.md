@@ -139,7 +139,7 @@ skills:
 
 languages:
   - name: English
-    percent: 90
+    percent: 100
   - name: Chinese
     percent: 100
   - name: French
