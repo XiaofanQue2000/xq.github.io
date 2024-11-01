@@ -148,4 +148,4 @@ languages:
 
 ## About Me
 
-Xiaofan Que is a PhD student and graduate research assistant at Machine Learning and Data Intensive Computing Lab, Rochester Institute of Technology. She've received her bachelor and master degrees of computer science from University of Electronic Science and Technology of China. Her academic work has been published in AAAI, ECCV, among other outlets. Her research interests learning to learn with noisy labels, few-shot learning, meta-learning, object detection, vision language models and prompt engineering.
+Xiaofan Que is a PhD student and graduate research assistant at Machine Learning and Data Intensive Computing Lab, Rochester Institute of Technology. She received her bachelor and master degrees of computer science from University of Electronic Science and Technology of China. Her academic work has been published in AAAI, ECCV, among other outlets. Her research interests includes learning with noisy labels, few-shot learning, meta-learning, object detection, vision language models and prompt engineering.
